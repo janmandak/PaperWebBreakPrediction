@@ -15,4 +15,5 @@ Feature engineering is typically important in this type of classification proble
 
 ## References: 
 Ranjan, Ch., Mustonen, M., Paynabar, K. and Pourak, K. (2018). Dataset: Rare Event Classification in Multivariate Time Series. arXiv preprint arXiv:1809.1071v2
+
 Schfer, P., and Leser, U. (2017). Multivariate time series classification with weasel+ muse. arXiv preprint arXiv:1711.11343
