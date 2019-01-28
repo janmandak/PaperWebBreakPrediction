@@ -14,4 +14,5 @@ Probably the most challenging is the fact that this classification task is highl
 Feature engineering is typically important in this type of classification problem. Schfer and Leser (2017) have proposed a first difference of the predictors, representing a gradual change in a variable. However, the first derivative may not necessarily trigger the event. A second difference of a variable representing sudden change should be also tried. Besides the first and second differences Ranjan et al (2018) also suggested to create change of the level of the categorical variable x28, instead of the actual value. A binary variable x28change was created and is equal to 1 when the level of variable x28 in time t is different from the level in time t-1 and otherwise 0.
 
 ## References: 
-Ranjan, Ch., Mustonen, M., Paynabar, K. and Pourak, K. (2018). ‘Dataset: Rare Event Classification in Multivariate Time Series’. arXiv preprint arXiv:1809.1071v2
+Ranjan, Ch., Mustonen, M., Paynabar, K. and Pourak, K. (2018). Dataset: Rare Event Classification in Multivariate Time Series. arXiv preprint arXiv:1809.1071v2
+Schfer, P., and Leser, U. (2017). Multivariate time series classification with weasel+ muse. arXiv preprint arXiv:1711.11343
